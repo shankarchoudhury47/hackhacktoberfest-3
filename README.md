@@ -1,4 +1,4 @@
-# hachhacktoberfest-3
+# hackhacktoberfest-3
  let's crack it this time
 ## Instructions:
 You can select any problem statement as per your programming skill levels.
